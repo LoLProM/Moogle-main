@@ -1,0 +1,88 @@
+PWD /Users/nadia/Downloads/Programing/Moogle-main
+INPUT /usr/local/texlive/2020/texmf.cnf
+INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Informe Moogle.tex
+OUTPUT /Users/nadia/Downloads/Programing/Moogle-main/Informe Moogle.log
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Informe Moogle.aux
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Informe Moogle.aux
+OUTPUT /Users/nadia/Downloads/Programing/Moogle-main/Informe Moogle.aux
+INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Picture1.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Picture1.png
+OUTPUT /Users/nadia/Downloads/Programing/Moogle-main/Informe Moogle.pdf
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Picture1.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/matcom.jpg
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/matcom.jpg
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/matcom.jpg
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Figure1.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Figure1.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Figure1.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Figure2.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Figure2.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Figure2.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Figure3.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Figure3.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Figure3.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Figure4.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Figure4.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Figure4.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Picture2.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Picture2.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Picture2.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Picture3.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Picture3.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Picture3.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Picture4.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Picture4.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Picture4.png
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Informe Moogle.toc
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Informe Moogle.toc
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+OUTPUT /Users/nadia/Downloads/Programing/Moogle-main/Informe Moogle.toc
+INPUT /Users/nadia/Downloads/Programing/Moogle-main/Informe Moogle.aux
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
